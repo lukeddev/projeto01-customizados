@@ -1,7 +1,7 @@
 # projeto01-customizados
 Inicio do meu treinamento DEV - Página de apresentação de uma empresa de móveis customizados.
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 ## Tecnologias
 
